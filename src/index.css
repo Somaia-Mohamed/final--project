@@ -1,4 +1,4 @@
-body {
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +10,164 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+} */
+.lab-btn {
+  background-color: #ff5d73 !important;
+}
+.lab-btn:hover {
+  background-color: #ff5d73 !important;
+  color: #fcfcfc !important;
+}
+.lab-ul {
+  background-color: #fcfcfc !important;
+}
+.header-top.a:active,
+.header-top.a:hover {
+  color: #ff5d73 !important;
+  background-color: #fcfcfc !important;
+}
+.icon {
+  font-size: 35px;
+  /* color: #ff5d73; */
+  font-weight: bolder;
+}
+.icons {
+  color: #ff5d73 !important;
+  font-size: 25px;
+}
+.icon_menu {
+  background-color: #ff5d73 !important;
+}
+.autoplay-progress {
+  width: 5px;
+}
+/* .categoryImg {
+  background-color: rgb(0, 0, 0) !important;
+} */
+.lab-ul li:hover {
+  background-color: #ff5d73 !important;
+}
+.course-inner .course-thumb {
+  background-color: #a35963 !important;
+}
+.produc-title:hover {
+  color: #0a0909 !important;
+}
+.produc-price {
+  color: #f76d80;
+}
+.course-category {
+  background-color: #ffb5bf !important;
+}
+.about {
+  background-color: #ffdbdf !important ;
+}
+.product-tit:hover {
+  color: #ffb5bf !important;
+}
+
+.nav-profile {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: indigo;
+  cursor: pointer;
+}
+
+.page-item {
+  width: 46px;
+  height: 46px;
+  text-align: center;
+  border-radius: 50%;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+  background: #fff;
+  color: #101115;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 7px;
+}
+
+.github {
+  height: 36px;
+  width: 36px;
+  line-height: 36px;
+  transition: all 0.3s ease;
+  border-radius: 50%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  background: #0f9d58;
+  color: #fff;
+}
+.desc:hover,
+.inc:hover {
+  background-color: #ff5d73 !important;
+}
+.cartBtn:hover{
+  background-color: blue !important;
+}
+/* sign up form */
+/* .sign_form {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+} */
+.sign_form form {
+  /* width: 40vw; */
+  padding: 20px;
+  box-shadow: 0 10px 20px rgba(133, 126, 126, 0.8);
+  border-radius: 10px;
+}
+.sign_form form input {
+  outline: none;
+  padding: 10px 20px;
+  margin: 10px;
+  margin-left: 10px;
+  border: 2px solid white;
+  border-radius: 10px;
+  box-shadow: 0 0 1px 2px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  margin-bottom: 8px;
+}
+.sign_form form input:focus {
+  border: 2px solid #aad6f3;
+}
+.sign_form form input::placeholder {
+  text-transform: capitalize;
+  color: rgba(48, 45, 45, 0.3);
+}
+.sign_form form p {
+  color: red;
+  font-size: small;
+  margin-left: 10px;
+}
+.sign_form form button,
+.nav-btn {
+  text-transform: capitalize;
+  align-items: center;
+  outline: none;
+  color: white;
+  font-size: 1em;
+  margin-top: 10px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: #0e0d0d;
+  font-weight: bolder;
+  font-size: larger;
+
+  text-transform: capitalize;
+}
+.nav-btn:hover {
+  box-shadow: 0 0 1px 2px rgb(245, 243, 244);
+}
+
+.sign_form form button:hover {
+  background-color: #fff;
+  color: black;
+  box-shadow: 0 0 1px 2px rgba(0, 0, 0, 0.1);
+  border: 2px solid #080808;
 }
