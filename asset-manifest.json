@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/final--project/static/css/main.490b1817.css",
+    "main.js": "/final--project/static/js/main.869a85f5.js",
+    "static/media/05.jpg": "/final--project/static/media/05.941b541a3b3cc7e83949.jpg",
+    "static/media/10.jpg": "/final--project/static/media/10.467a67cf8f939a361571.jpg",
+    "static/media/08.jpg": "/final--project/static/media/08.dc3eb847cf659df917ff.jpg",
+    "static/media/icofont.woff": "/final--project/static/media/icofont.dad3accba068281878f1.woff",
+    "static/media/icofont.woff2": "/final--project/static/media/icofont.9c33516aab48c61e3081.woff2",
+    "static/media/14.jpg": "/final--project/static/media/14.0174c5c1254af1183846.jpg",
+    "static/media/03.jpg": "/final--project/static/media/03.34696d6919f4443f90d9.jpg",
+    "static/media/04.jpg": "/final--project/static/media/04.e5146868eda891b1d61a.jpg",
+    "static/media/09.jpg": "/final--project/static/media/09.804de085f52406da10a4.jpg",
+    "static/media/01.png": "/final--project/static/media/01.1ab2d7d824cda11d86a1.png",
+    "static/media/02.png": "/final--project/static/media/02.ba699cd616f691881513.png",
+    "static/media/07.jpg": "/final--project/static/media/07.29e9f04bc959a5e6f191.jpg",
+    "static/media/13.jpg": "/final--project/static/media/13.be98fa6c7736f4f7b2d3.jpg",
+    "static/media/bg.png": "/final--project/static/media/bg.fc9a44ade3da70913cdf.png",
+    "static/media/06.jpg": "/final--project/static/media/06.c75e516aa2e0da953e88.jpg",
+    "static/media/11.jpg": "/final--project/static/media/11.e76dd00f0d637e432ca9.jpg",
+    "static/media/12.jpg": "/final--project/static/media/12.5b5a9afdd0ba0887d0fe.jpg",
+    "static/media/01.jpg": "/final--project/static/media/01.2ef446bdfc428cbfe22e.jpg",
+    "static/media/02.jpg": "/final--project/static/media/02.54b74e94f104ee6fe254.jpg",
+    "static/media/05.png": "/final--project/static/media/05.12407748cc73fecc71fc.png",
+    "static/media/07.png": "/final--project/static/media/07.e85ce796ddadd4c2a0cc.png",
+    "static/media/08.png": "/final--project/static/media/08.e57a13b08945c1eefbed.png",
+    "static/media/06.png": "/final--project/static/media/06.d03eba66d2b72967c14a.png",
+    "static/media/10.png": "/final--project/static/media/10.ebccadec0233195b127b.png",
+    "index.html": "/final--project/index.html",
+    "main.490b1817.css.map": "/final--project/static/css/main.490b1817.css.map",
+    "main.869a85f5.js.map": "/final--project/static/js/main.869a85f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.490b1817.css",
+    "static/js/main.869a85f5.js"
+  ]
+}
